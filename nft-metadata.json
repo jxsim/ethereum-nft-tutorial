@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Expression",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bald"
+    }
+  ],
+  "description": "The world's most adorable and sensitive face.",
+  "image": "ipfs://QmSXFuEoBAv4FXRNnwLFJuG4kUZuq7CVsqQ4FN4hhsvNad",
+  "name": "AngryFace"
+}
